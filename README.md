@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-
-- 📝 I regularly write articles on [.Net Core]
-
 - 💬 Ask me about **.Net Core, C#, SQL, EF Core, LINQ**
 
 - 📫 How to reach me **eng.sally.atalla@gmail.com**
